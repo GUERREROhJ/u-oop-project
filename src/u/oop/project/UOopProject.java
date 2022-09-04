@@ -94,6 +94,23 @@ public class UOopProject {
         System.out.println(pro3);
         System.out.println("\nProveedor 4"); 
         System.out.println(pro4);
+        
+        System.out.println("\n------Pruebas de Mesa-------");
+        
+   
+      Mesa M1=new Mesa (54321,01,"Piso Numero 01");
+      Mesa M2=new Mesa (54320,02,"Piso Numero 01");
+      Mesa M3=new Mesa (54319,03,"Piso Numero 01");
+      Mesa M4=new Mesa (54318,04,"Piso Numero 02");
+      Mesa M5=new Mesa (54317,05,"Piso Numero 02");
+      Mesa M6=new Mesa (54316,06,"Piso Numero 01");
+      Mesa M7=new Mesa (54325,07,"Piso Numero 02");
+      Mesa M8=new Mesa (54322,8,"Piso Numero 03");
+      Mesa M9=new Mesa (54322,9,"Piso Numero 03");
+      Mesa M10=new Mesa (54322,10,"Piso Numero 03");
+        
+        
+     System.out.println
     }
     
 }
